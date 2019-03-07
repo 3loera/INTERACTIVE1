@@ -1,0 +1,9 @@
+
+.flag-mx
+	@extend .aspect-ratio-4-7
+	background: #fff
+	&:before
+		+vertical-strips(#006847, #CE1126, true)
+	&:after
+		+circle-centered(#70441F,0.3em)
+		box-shadow: -1px -1px 0 #70441F, 1px 0 0 #70441F, 0 2px 0 #006847

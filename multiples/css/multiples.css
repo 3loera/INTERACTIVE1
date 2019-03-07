@@ -22,7 +22,7 @@ img{
 /* tablet */
 @media (min-width: 670px) and (max-width: 1024px) {
     body {
-        background: grey;
+        background: black;
     }
     #d2 {
         display: inline;
@@ -37,7 +37,7 @@ img{
 /* mobile */
 @media (max-width: 670px) {
     body {
-        background: white;
+        background: black;
     }
     #d3 {
         display: inline;
@@ -53,10 +53,13 @@ img{
 @media print {
 
 body {
-    background: white;
+    background: black;
 }
 #d4 {
-    max-height: 10in
+
+display: inline;
+        color: black;
+
 }
 #d1,
 #d2,

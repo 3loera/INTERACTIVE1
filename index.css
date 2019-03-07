@@ -1,0 +1,26 @@
+#menu li{
+  list-style-type: none;
+}
+h1 {
+
+  font-family: "broken planewing";
+  font-size: 500%;
+}
+head {
+  font-family: cursive;
+}
+body {
+
+
+
+  font-family: "futura", sans-serif;
+}
+
+img {
+  width: 25%;
+  height: auto;
+}
+
+#container {
+  text-align: center;
+}
