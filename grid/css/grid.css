@@ -1,0 +1,18 @@
+
+.grid-item {
+  background-color: pink;
+  border: 1px solid black;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 200px 300px 200px 400px;
+  grid-gap: 20px 40px;
+}
+#item-1 {
+  background: orange;
+  grid-column-start: 2;
+  grid-column-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 4;
+}
