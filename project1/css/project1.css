@@ -1,0 +1,58 @@
+.header{
+    background-image: url(h1.png);
+    background-size: 600px;
+    width: 600px;
+    height: 250px;
+    top: 100px;
+    left: 450px;
+    position: absolute;
+}
+
+.firstphoto{
+  background-image: url(s1.png);
+background-size: 400px;
+width: 300px;
+height: 300px;
+top: 300px;
+left: -400px;
+position: absolute;
+}
+#firstphoto:hover{
+  background-image: url(s5.png);
+  background-size: 300px;
+  width: 300px;
+  height: 300px;
+  top: 300px;
+  left: -400px;
+  position: absolute;
+}
+.secondphoto{
+  background-image: url(s2.png);
+background-size: 400px;
+width: 300px;
+height: 300px;
+    left: -50px;
+    top:300px;
+position: absolute;
+
+}
+.thirdphoto{
+  background-image: url(s3.png);
+background-size: 400px;
+width: 300px;
+height: 300px;
+left: 300px;
+top:300px;
+position: absolute
+
+}
+.fourthphoto{
+  background-image: url(s4.png);
+background-size: 400px;
+width: 300px;
+height: 300px;
+left: 650px;
+top:300px;
+position: absolute;
+
+}
