@@ -6,7 +6,7 @@
     background: rgb(153, 235, 255);
     border-radius: 50%;
     display: inline-block;
-    
+
 
   }
 #a{
@@ -16,7 +16,7 @@
    }
 #b{
   position:absolute;
-  top: 130px;
+  top: 110px;
   left: 165px;
    }
 #c{
@@ -41,12 +41,12 @@
        }
 #g{
    position:absolute;
-   top: 200px;
+   top: 100px;
    left: 890px;
      }
 #h{
    position:absolute;
-   top: 200px;
+   top: 180px;
    left: 1035px;
  }
  #i{
@@ -230,7 +230,7 @@
        border-radius: 50%;
        box-shadow: 0 0 0 2px #ffffff;
        position: absolute;
-       left: 600px;
+       left: 60px;
        top: 26px;
                                               }
     .f2{
@@ -240,7 +240,7 @@
        border-radius: 50%;
        box-shadow: 0 0 0 2px #ffffff;
        position: absolute;
-       left: 570px;
+       left: 57px;
        top: 65px;
      }
 
@@ -251,8 +251,8 @@
        border-radius: 50%;
        box-shadow: 0 0 0 2px #ffffff;
        position: absolute;
-       left: 683px;
-       top: 26px;
+       left: 51px;
+       top: 8px;
     }
     .g2{
        width: 30px;
@@ -261,8 +261,8 @@
        border-radius: 50%;
        box-shadow: 0 0 0 2px #ffffff;
        position: absolute;
-       left: 675px;
-       top: 84px;
+       left: 46px;
+       top: 70px;
 
     }
     .h1{
@@ -272,8 +272,8 @@
       border-radius: 50%;
       box-shadow: 0 0 0 2px #ffffff;
       position: absolute;
-      left: 762px;
-      top: 5px;
+      left: 26px;
+      top: -6px;
     }
     .h2{
       width: 50px;
@@ -282,7 +282,57 @@
       border-radius: 50%;
       box-shadow: 0 0 0 2px #ffffff;
       position: absolute;
-      left: 762px;
-      top: 67px;
+      left: 26px;
+      top: 56px;
     }
+    .i1{
+      width: 50px;
+      height: 50px;
+      background:rgb(153, 235, 255);
+      border-radius: 50%;
+      box-shadow: 0 0 0 2px #ffffff;
+      position: absolute;
+      left: -6px;
+      top: 26px;
+    }
+    .i2{
+      width: 50px;
+      height: 50px;
+      background:rgb(153, 235, 255);
+      border-radius: 50%;
+      box-shadow: 0 0 0 2px #ffffff;
+      position: absolute;
+      left: 56px;
+      top: 26px;
+    }
+    .j1{
+      width: 70px;
+      height: 70px;
+      background:rgb(153, 235, 255);
+      border-radius: 50%;
+      box-shadow: 0 0 0 2px #ffffff;
+      position: absolute;
+      left: -5px;
+      top: 7px;
+    }
+    .k1{
+        width: 30px;
+        height: 30px;
+        background:rgb(153, 235, 255);
+        border-radius: 50%;
+        box-shadow: 0 0 0 2px #ffffff;
+        position: absolute;
+        left: 54px;
+        top: 6px;
+                                               }
+     .k2{
+        width: 50px;
+        height: 50px;
+        background:rgb(153, 235, 255);
+        border-radius: 50%;
+        box-shadow: 0 0 0 2px #ffffff;
+        position: absolute;
+        left: 57px;
+        top: 65px;
+      }
 }
